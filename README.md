@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chetasanand
-- 👀 I’m interested in Data Science and programming
-- 🌱 I’m currently learning Statistics and python for Data Science
-- 💞️ I’m looking to collaborate on building DS models and algorithms
+- 👀 I’m a Data Scientist meets Engineering
+- 🌱 I’m using custom ML models to drive impact
+- 💞️ I’m  building DS models and algorithms
 - 📫 How to reach me on twitter @chetasanand
 
 <!---
